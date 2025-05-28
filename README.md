@@ -13,6 +13,12 @@ This project offers an implementation of the paper, "[MIFA2Former]".
 
 ## Models
 ##  Weights of MIFA2Former.
+(1) COCO entity train 
+| Alg | Train Data | Model Url |
+| ------| ------| ------|
+| MIFA2Former | COCO Entity | [Google Drive](https://drive.google.com/file/d/1zWcRwPHD9J2oQszWeDQPEFCVGAoXeKbz/view?usp=drive_link) |
+| MIFA2Former | EntitySeg Entity | [Google Drive](https://drive.google.com/file/d/1zWcRwPHD9J2oQszWeDQPEFCVGAoXeKbz/view?usp=drive_link) |
+
 
 ## Data
 #### Coco entity dataset
