@@ -71,7 +71,10 @@ For example,
 python3 projects/MIFA2Former/demo_result_and_vis.py --config-file projects/MIFA2Former/configs/entity_swin_lw7_1x.yaml --input /data/input/*.jpg --output /data/output MODEL.WEIGHTS /data/pretrained_model/R_50.pth MODEL.CONDINST.MASK_BRANCH.USE_MASK_RESCORE "True"
 ```
 
-
+## Params and Flops
+<div align="center">
+  <img src="ours.png" width="90%"/>
+</div><br/>
 
 
 
